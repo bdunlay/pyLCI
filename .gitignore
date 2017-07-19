@@ -58,3 +58,5 @@ target/
 
 # pyLCI
 /config.json 
+/pylci.log*
+do_not_load
